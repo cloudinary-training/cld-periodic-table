@@ -1,0 +1,160 @@
+.Element {
+  border: 1px solid #fff;
+  overflow: hidden;
+  flex: 0 0 5.5556%;
+  background: #f2f2f2;
+  border-collapse: collapse;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  height: 5.4vw;
+  cursor: pointer;
+  font-size: 0.76vw;
+  
+
+  .symbol {
+    font-weight: 700;
+    font-size: 1.7vw;
+    margin-bottom: 0.1vw;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+  .number {
+    position: absolute;
+    top: 0.3vw;
+    right: 0.3vw;
+  }
+
+  .name {
+    margin-bottom: 0.2vw;
+  }
+}
+
+
+
+.Element.blank {
+  border: 0;
+  background: #fff;
+  height: 1.6vh;
+}
+
+// for now
+.highlight {
+  color: red;
+}
+
+
+
+
+/* transformation classification colors */
+div.Element.aesthetic {
+  background-color: #fabed4;
+}
+
+div.Element.audio {
+  background-color: #fac9a6; 
+}
+
+div.Element.custom {
+  background-color: #ffe119;
+}
+
+div.Element.image {
+  background-color: #f58231;
+}
+
+div.Element.layer {
+  background-color: palegreen;
+}
+
+div.Element.optimization {
+  background-color: #ffd8b1;
+}
+
+div.Element.photoshop {
+  background-color: #fdf5e6;
+}
+
+div.Element.resolution {
+  background-color: #911eb4;
+}
+
+div.Element.size {
+  background-color: #f032e6;
+}
+
+div.div.Element.place {
+  background-color: #a9a9a9;
+}
+div.Element.sprite {
+  background-color: #f2e4fa;
+}
+div.Element.style {
+  background-color: #42d4f4;
+}
+
+div.Element.template {
+  background-color: #fffac8;
+}
+
+div.Element.attention {
+	background-color: #DEB887;
+}
+
+div.Element.audio-video {
+  background-color: #cda4ff; 
+}
+
+div.Element.effect {
+  background-color: #b6d2ff; 
+}
+
+div.Element.resize {
+  background-color: #f4ff6a;
+}
+
+.line1 {
+  font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+	color: #333;
+  font-size: 0.55vw;
+	-webkit-text-size-adjust: 100%;
+  margin:1ch 0 1ch 0;
+  text-align: center;
+}
+.line2 {
+  font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+	color: #333;
+  font-size: 0.49vw;
+	-webkit-text-size-adjust: 100%;
+  text-align: center;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(0,0,0,.7);
+}
+.Element:hover .overlay {
+  opacity: 1;
+}
+.text {
+  color: white;
+  font-size: .75rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}

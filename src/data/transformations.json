@@ -1,0 +1,1455 @@
+{
+  "elements": [
+    {
+      "name": "custom function",
+      "line1": "custom",
+      "line2": "function",
+      "class": "custom",
+      "number": 1,
+      "path": "fn_",
+      "symbol": "Fn"
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1001,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1002,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1003,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1004,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1005,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1006,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1007,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1008,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1009,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1010,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1011,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1012,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1013,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1014,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1015,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 1016,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Prefix",
+      "line1": "prefix",
+      "line2": "p_",
+      "class": "sprite",
+      "number": 2,
+      "path": "p_prefix",
+      "symbol": "P"
+    },
+    {
+      "name": "Audio Codec",
+      "line1": "audio codec",
+      "line2": "ac_",
+      "class": "audio",
+      "number": 3,
+      "path": "ac_audio_codec",
+      "symbol": "Ac"
+    },
+    {
+      "name": "Audio Frequency",
+      "line1": "audio freq",
+      "line2": "af_",
+      "class": "audio",
+      "number": 4,
+      "path": "af_audio_frequency",
+      "symbol": "Af"
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2001,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2002,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2003,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2004,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2005,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2006,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2007,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2008,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2009,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 2010,
+      "path": "",
+      "symbol": ""
+    },
+
+    {
+      "name": "Format",
+      "line1": "format",
+      "line2": "f_",
+      "class": "optimization",
+      "number": 5,
+      "path": "f_format",
+      "symbol": "F"
+    },
+
+    {
+      "name": "Quality",
+      "line1": "quality",
+      "line2": "q_",
+      "class": "optimization",
+      "number": 6,
+      "path": "q_quality",
+      "symbol": "Q"
+    },
+    {
+      "name": "DPR",
+      "line1": "dpr",
+      "line2": "dpr_",
+      "class": "optimization",
+      "number": 7,
+      "path": "dpr_dpr",
+      "symbol": "Dr"
+    },
+    {
+      "name": "If",
+      "line1": "if condition",
+      "line2": "if_",
+      "class": "template",
+      "number": 8,
+      "path": "if_if_condition",
+      "symbol": "If"
+    },
+    {
+      "name": "Named Transactions",
+      "line1": "named trans",
+      "line2": "t_",
+      "class": "template",
+      "number": 9,
+      "path": "t_named_transformation",
+      "symbol": "T"
+    },
+    {
+      "name": "Variable",
+      "line1": "variable",
+      "line2": "$_",
+      "class": "template",
+      "number": 10,
+      "path": "",
+      "symbol": "$"
+    },
+    {
+      "name": "Background",
+      "line1": "background",
+      "line2": "b_",
+      "class": "aesthetic",
+      "number": 11,
+      "path": "_variable",
+      "symbol": "B"
+    },
+    {
+      "name": "Border",
+      "line1": "border",
+      "line2": "bo_",
+      "class": "aesthetic",
+      "number": 12,
+      "path": "bo_border",
+      "symbol": "Bo"
+    },
+    {
+      "name": "Color",
+      "line1": "color",
+      "line2": "co_",
+      "class": "aesthetic",
+      "number": 13,
+      "path": "co_color",
+      "symbol": "Co"
+    },
+    {
+      "name": "Color Space",
+      "line1": "color space",
+      "line2": "cs_",
+      "class": "aesthetic",
+      "number": 14,
+      "path": "cs_color_space",
+      "symbol": "Cs"
+    },
+    {
+      "name": "Radius",
+      "line1": "radius",
+      "line2": "r_",
+      "class": "aesthetic",
+      "number": 15,
+      "path": "r_radius",
+      "symbol": "R"
+    },
+
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 3001,
+      "path": "r_round_corners",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 3002,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 3003,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 3004,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 3005,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 3006,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Blank",
+      "line1": "",
+      "line2": "",
+      "class": "Blank",
+      "number": 3007,
+      "path": "",
+      "symbol": ""
+    },
+    {
+      "name": "Angle",
+      "line1": "angle",
+      "line2": "a_",
+      "class": "aesthetic",
+      "number": 16,
+      "path": "a_angle",
+      "symbol": "A"
+    },
+    {
+      "name": "Flag",
+      "line1": "flag",
+      "line2": "fl_",
+      "class": "aesthetic",
+      "number": 17,
+      "path": "fl_flag",
+      "symbol": "Fl"
+    },
+    {
+      "name": "Opacity",
+      "line1": "opacity",
+      "line2": "o_",
+      "class": "aesthetic",
+      "number": 18,
+      "path": "o_opacity",
+      "symbol": "Op"
+    },
+    {
+      "name": "Gravity",
+      "line1": "gravity",
+      "line2": "g_",
+      "class": "attention",
+      "number": 19,
+      "path": "g_gravity",
+      "symbol": "G"
+    },
+    {
+      "name": "Zoom",
+      "line1": "zoom",
+      "line2": "z_",
+      "class": "attention",
+      "number": 20,
+      "path": "z_zoom",
+      "symbol": "Z"
+    },
+    {
+      "name": "Page",
+      "line1": "page",
+      "line2": "pg_",
+      "class": "photoshop",
+      "number": 21,
+      "path": "pg_page_or_file_layer",
+      "symbol": "Pg"
+    },
+
+    {
+      "name": "Layer",
+      "line1": "layer",
+      "line2": "l_",
+      "class": "layer",
+      "number": 22,
+      "path": "l_layer",
+      "symbol": "La"
+    },
+    {
+      "name": "Under Layer",
+      "line1": "under layer",
+      "line2": "u_",
+      "class": "layer",
+      "number": 23,
+      "path": "u_layer",
+      "symbol": "Un"
+    },
+    {
+      "name": "X position",
+      "line1": "x",
+      "line2": "x_",
+      "class": "layer",
+      "number": 24,
+      "path": "x_y_coordinates",
+      "symbol": "Pg"
+    },
+    {
+      "name": "Y position",
+      "line1": "y",
+      "line2": "y_",
+      "class": "layer",
+      "number": 25,
+      "path": "x_y_coordinates",
+      "symbol": "Y"
+    },
+    {
+      "name": "Font Family",
+      "line1": "font family",
+      "line2": "ariel_",
+      "class": "layer",
+      "number": 26,
+      "path": "l_text",
+      "symbol": "Pg"
+    },
+    {
+      "name": "Font Size",
+      "line1": "font size",
+      "line2": "_100",
+      "class": "layer",
+      "number": 27,
+      "path": "l_text",
+      "symbol": "Fs"
+    },
+    {
+      "name": "Font Weight",
+      "line1": "font weight",
+      "line2": "_bold",
+      "class": "layer",
+      "number": 28,
+      "path": "l_text",
+      "symbol": "Fw"
+    },
+    {
+      "name": "Text",
+      "line1": "text",
+      "line2": ":abc",
+      "class": "layer",
+      "number": 29,
+      "path": "l_text",
+      "symbol": "Tx"
+    },
+    {
+      "name": "End Offset",
+      "line1": "end offset",
+      "line2": "eo_",
+      "class": "audio-video",
+      "number": 30,
+      "path": "eo_end_offset",
+      "symbol": "Eo"
+    },
+    {
+      "name": "Duration",
+      "line1": "duration",
+      "line2": "du_",
+      "class": "audio-video",
+      "number": 31,
+      "path": "du_duration",
+      "symbol": "Du"
+    },
+    {
+      "name": "Start Offset",
+      "line1": "start offset",
+      "line2": "so_",
+      "class": "audio-video",
+      "number": 32,
+      "path": "so_start_offset",
+      "symbol": "So"
+    },
+    {
+      "name": "Bit Rate",
+      "line1": "bit rate",
+      "line2": "br_",
+      "class": "audio-video",
+      "number": 33,
+      "path": "br_bitrate",
+      "symbol": "Br"
+    },
+    {
+      "name": "Delay",
+      "line1": "delay",
+      "line2": "dl_",
+      "class": "audio-video",
+      "number": 34,
+      "path": "dl_delay",
+      "symbol": "Dl"
+    },
+    {
+      "name": "Frames per Second",
+      "line1": "frames/sec",
+      "line2": "fp_",
+      "class": "audio-video",
+      "number": 35,
+      "path": "fps_fps",
+      "symbol": "Fp"
+    },
+    {
+      "name": "Keyframe Integer",
+      "line1": "keyframe int",
+      "line2": "ki_",
+      "class": "audio-video",
+      "number": 36,
+      "path": "ki_keyframe_interval",
+      "symbol": "Pg"
+    },
+    {
+      "name": "Stream Profile",
+      "line1": "stream profile",
+      "line2": "sp_",
+      "class": "audio-video",
+      "number": 37,
+      "path": "sp_streaming_profile",
+      "symbol": "Sp"
+    },
+    {
+      "name": "Video Codec",
+      "line1": "video codec",
+      "line2": "vc_",
+      "class": "audio-video",
+      "number": 38,
+      "path": "vc_video_codec",
+      "symbol": "Vc"
+    },
+    {
+      "name": "Video Sample",
+      "line1": "video sample",
+      "line2": "vs_",
+      "class": "audio-video",
+      "number": 39,
+      "path": "vs_video_sample",
+      "symbol": "Vs"
+    },
+
+    {
+      "name": "Accelerate",
+      "line1": "accelerate",
+      "line2": "e_accelerate",
+      "class": "effect",
+      "number": 40,
+      "path": "",
+      "symbol": "Aa"
+    },
+    {
+      "name": "Advanced Red Eye",
+      "line1": "accelerate",
+      "line2": "e_adv_redeye",
+      "class": "effect",
+      "number": 41,
+      "path": "e_accelerate",
+      "symbol": "Ay"
+    },
+    {
+      "name": "Anti Removal",
+      "line1": "anti removal",
+      "line2": "e_anti_removal",
+      "class": "effect",
+      "number": 42,
+      "path": "e_anti_removal",
+      "symbol": "Av"
+    },
+    {
+      "name": "Art",
+      "line1": "art",
+      "line2": "e_art",
+      "class": "effect",
+      "number": 43,
+      "path": "e_art",
+      "symbol": "At"
+    },
+    {
+      "name": "Auto Brightness",
+      "line1": "auto bright",
+      "line2": "e_auto_brightness",
+      "class": "effect",
+      "number": 44,
+      "path": "e_auto_brightness",
+      "symbol": "Au"
+    },
+    {
+      "name": "Auto Color",
+      "line1": "auto color",
+      "line2": "e_auto_color",
+      "class": "effect",
+      "number": 45,
+      "path": "",
+      "symbol": "Al"
+    },
+    {
+      "name": "Auto Contrast",
+      "line1": "auto contrast",
+      "line2": "e_auto_contrast",
+      "class": "effect",
+      "number": 46,
+      "path": "e_auto_contrast",
+      "symbol": "As"
+    },
+    {
+      "name": "Color Blind Assist",
+      "line1": "color blind",
+      "line2": "e_assist_colorblind",
+      "class": "effect",
+      "number": 47,
+      "path": "e_assist_colorblind",
+      "symbol": "Ab"
+    },
+    {
+      "name": "Background Removal",
+      "line1": "bg removal",
+      "line2": "e_bgremoval",
+      "class": "effect",
+      "number": 48,
+      "path": "e_bgremoval",
+      "symbol": "Bg"
+    },
+    {
+      "name": "Black White",
+      "line1": "black white",
+      "line2": "e_black_white",
+      "class": "effect",
+      "number": 49,
+      "path": "e_blackwhite",
+      "symbol": "Bw"
+    },
+    {
+      "name": "Blue",
+      "line1": "blue",
+      "line2": "e_blue",
+      "class": "effect",
+      "number": 50,
+      "path": "e_blue",
+      "symbol": "Bl"
+    },
+    {
+      "name": "Blur",
+      "line1": "blur",
+      "line2": "e_blur",
+      "class": "effect",
+      "number": 51,
+      "path": "e_blur",
+      "symbol": "Bu"
+    },
+    {
+      "name": "Blur Faces",
+      "line1": "blur faces",
+      "line2": "e_blur_faces",
+      "class": "effect",
+      "number": 52,
+      "path": "e_blur_faces",
+      "symbol": "Bf"
+    },
+    {
+      "name": "Blur Region",
+      "line1": "blur region",
+      "line2": "e_blur_region",
+      "class": "effect",
+      "number": 53,
+      "path": "",
+      "symbol": "Bn"
+    },
+    {
+      "name": "Boomerang",
+      "line1": "boomerang",
+      "line2": "e_boomerang",
+      "class": "effect",
+      "number": 54,
+      "path": "e_blur_region",
+      "symbol": "Bn"
+    },
+    {
+      "name": "Brightness",
+      "line1": "brightness",
+      "line2": "e_brightness",
+      "class": "effect",
+      "number": 55,
+      "path": "e_brightness",
+      "symbol": "Bg"
+    },
+    {
+      "name": "Brightness HSB",
+      "line1": "brightness hsb",
+      "line2": "e_brightness_hsb",
+      "class": "effect",
+      "number": 56,
+      "path": "e_brightness_hsb",
+      "symbol": "Bh"
+    },
+    {
+      "name": "Cartoonify",
+      "line1": "cartoonify",
+      "line2": "e_cartoonify",
+      "class": "effect",
+      "number": 57,
+      "path": "e_cartoonify",
+      "symbol": "Ca"
+    },
+
+    {
+      "name": "Colorize",
+      "line1": "colorize",
+      "line2": "e_colorize",
+      "class": "effect",
+      "number": 58,
+      "path": "e_colorize",
+      "symbol": "Cz"
+    },
+    {
+      "name": "Contrast",
+      "line1": "contrast",
+      "line2": "e_contrast",
+      "class": "effect",
+      "number": 59,
+      "path": "e_contrast",
+      "symbol": "Cn"
+    },
+    {
+      "name": "Cut Out",
+      "line1": "cut out",
+      "line2": "e_cut_out",
+      "class": "effect",
+      "number": 60,
+      "path": "e_cut_out",
+      "symbol": "Cu"
+    },
+
+    {
+      "name": "Deshake",
+      "line1": "deshake",
+      "line2": "e_deshake",
+      "class": "effect",
+      "number": 61,
+      "path": "",
+      "symbol": "De"
+    },
+    {
+      "name": "Distort",
+      "line1": "distort",
+      "line2": "e_distort",
+      "class": "effect",
+      "number": 62,
+      "path": "e_deshake",
+      "symbol": "Di"
+    },
+
+    {
+      "name": "Displace",
+      "line1": "displace",
+      "line2": "e_displace",
+      "class": "effect",
+      "number": 63,
+      "path": "",
+      "symbol": "Dp"
+    },
+    {
+      "name": "Fade",
+      "line1": "fade",
+      "line2": "e_fade",
+      "class": "effect",
+      "number": 64,
+      "path": "e_displace",
+      "symbol": "Fa"
+    },
+    {
+      "name": "Fill Light",
+      "line1": "fill light",
+      "line2": "e_fill_light",
+      "class": "effect",
+      "number": 65,
+      "path": "e_fill_light ",
+      "symbol": "Fg"
+    },
+    {
+      "name": "Gamma",
+      "line1": "gamma",
+      "line2": "e_gamma",
+      "class": "effect",
+      "number": 66,
+      "path": "e_gamma",
+      "symbol": "Ga"
+    },
+    {
+      "name": "Gradient Fade",
+      "line1": "gradient fade",
+      "line2": "e_gradient_fade",
+      "class": "effect",
+      "number": 67,
+      "path": "",
+      "symbol": "Gr"
+    },
+    {
+      "name": "Grayscale",
+      "line1": "grayscale",
+      "line2": "e_grayscale",
+      "class": "effect",
+      "number": 68,
+      "path": "e_gradient_fade",
+      "symbol": "Gy"
+    },
+    {
+      "name": "Green",
+      "line1": "green",
+      "line2": "e_green",
+      "class": "effect",
+      "number": 69,
+      "path": "e_green",
+      "symbol": "Ge"
+    },
+    {
+      "name": "Hue",
+      "line1": "hue",
+      "line2": "e_hue",
+      "class": "effect",
+      "number": 70,
+      "path": "e_hue",
+      "symbol": "Hu"
+    },
+    {
+      "name": "Improve",
+      "line1": "improve",
+      "line2": "e_improve",
+      "class": "effect",
+      "number": 71,
+      "path": "e_improve",
+      "symbol": "Im"
+    },
+    {
+      "name": "Lightroom",
+      "line1": "lightroom",
+      "line2": "e_lightroom",
+      "class": "effect",
+      "number": 72,
+      "path": "e_lightroom",
+      "symbol": "Li"
+    },
+    {
+      "name": "Loop",
+      "line1": "loop",
+      "line2": "e_loop",
+      "class": "effect",
+      "number": 73,
+      "path": "e_loop",
+      "symbol": "Lo"
+    },
+    {
+      "name": "Make Transparent",
+      "line1": "make transparent",
+      "line2": "e_make_transparent",
+      "class": "effect",
+      "number": 74,
+      "path": "e_make_transparent",
+      "symbol": "Mt"
+    },
+    {
+      "name": "Multiply",
+      "line1": "multiply",
+      "line2": "e_multiply",
+      "class": "effect",
+      "number": 75,
+      "path": "e_multiply",
+      "symbol": "Mu"
+    },
+    {
+        "name": "Negate",
+        "line1": "negate",
+        "line2": "e_negate",
+        "class": "effect",
+        "number": 76,
+        "path": "",
+        "symbol": "Ne"
+      },
+      {
+        "name": "Noise",
+        "line1": "noise",
+        "line2": "e_noise",
+        "class": "effect",
+        "number": 77,
+        "path": "e_negate",
+        "symbol": "No"
+      },
+      {
+        "name": "Oil Paint",
+        "line1": "oil paint",
+        "line2": "e_oil_paint",
+        "class": "effect",
+        "number": 78,
+        "path": "e_noise",
+        "symbol": "Oi"
+      },
+      {
+        "name": "Opacity Threshold",
+        "line1": "opacity threshold",
+        "line2": "e_opacity_threshold",
+        "class": "effect",
+        "number": 79,
+        "path": "e_opacity_threshold",
+        "symbol": "Ot"
+      },
+      {
+        "name": "Ordered Dither",
+        "line1": "ordered dither",
+        "line2": "e_ordered_dither",
+        "class": "effect",
+        "number": 80,
+        "path": "e_ordered_dither",
+        "symbol": "Or"
+      },
+      {
+        "name": "Outline",
+        "line1": "outline",
+        "line2": "e_outline",
+        "class": "effect",
+        "number": 81,
+        "path": "e_outline",
+        "symbol": "Ou"
+      },
+      {
+        "name": "Overlay",
+        "line1": "overlay",
+        "line2": "e_overlay",
+        "class": "effect",
+        "number": 82,
+        "path": "e_overlay",
+        "symbol": "Ov"
+      },
+      {
+        "name": "Pixelate",
+        "line1": "pixelate",
+        "line2": "e_pixelate",
+        "class": "effect",
+        "number": 83,
+        "path": "e_pixelate",
+        "symbol": "Pi"
+      },
+      {
+        "name": "Pixelate Faces",
+        "line1": "pixelate faces",
+        "line2": "e_pixelate_faces",
+        "class": "effect",
+        "number": 84,
+        "path": "e_pixelate_faces",
+        "symbol": "Pf"
+      },
+      {
+        "name": "Pixelate Region",
+        "line1": "pixelate region",
+        "line2": "e_pixelate_region",
+        "class": "effect",
+        "number": 85,
+        "path": "e_pixelate_region",
+        "symbol": "Pr"
+      },
+      {
+        "name": "Preview",
+        "line1": "preview",
+        "line2": "e_preview",
+        "class": "effect",
+        "number": 86,
+        "path": "e_preview",
+        "symbol": "Mu"
+      },
+      {
+        "name": "Progress Bar",
+        "line1": "progress bar",
+        "line2": "e_progress_bar",
+        "class": "effect",
+        "number": 87,
+        "path": "e_progressbar",
+        "symbol": "Po"
+      },
+      {
+        "name": "Recolor",
+        "line1": "recolor",
+        "line2": "e_recolor",
+        "class": "effect",
+        "number": 88,
+        "path": "e_recolor",
+        "symbol": "Re"
+      },
+      {
+        "name": "Red",
+        "line1": "red",
+        "line2": "e_red",
+        "class": "effect",
+        "number": 89,
+        "path": "e_red",
+        "symbol": "Rd"
+      },
+      {
+        "name": "Redeye",
+        "line1": "redeye",
+        "line2": "e_redeye",
+        "class": "effect",
+        "number": 90,
+        "path": "e_redeye",
+        "symbol": "Ry"
+      },
+      {
+        "name": "Replace Color",
+        "line1": "replace color",
+        "line2": "e_replace_color",
+        "class": "effect",
+        "number": 91,
+        "path": "e_replace_color",
+        "symbol": "Rc"
+      },
+      {
+        "name": "Reverse",
+        "line1": "reverse",
+        "line2": "e_reverse",
+        "class": "effect",
+        "number": 92,
+        "path": "e_reverse",
+        "symbol": "Rv"
+      },
+      {
+        "name": "Saturation",
+        "line1": "saturation",
+        "line2": "e_saturation",
+        "class": "effect",
+        "number": 93,
+        "path": "e_saturation",
+        "symbol": "Sa"
+      },
+
+      {
+        "name": "Sepia",
+        "line1": "sepia",
+        "line2": "e_sepia",
+        "class": "effect",
+        "number": 94,
+        "path": "e_sepia",
+        "symbol": "Se"
+      },
+      {
+        "name": "Screen",
+        "line1": "screen",
+        "line2": "e_screen",
+        "class": "effect",
+        "number": 95,
+        "path": "e_screen",
+        "symbol": "Sc"
+      },
+      {
+        "name": "Shadow",
+        "line1": "shadow",
+        "line2": "e_shadow",
+        "class": "effect",
+        "number": 96,
+        "path": "",
+        "symbol": "Sh"
+      },
+      {
+        "name": "Sharpen",
+        "line1": "sharpen",
+        "line2": "e_sharpen",
+        "class": "effect",
+        "number": 97,
+        "path": "e_shadow",
+        "symbol": "Sp"
+      },
+      {
+        "name": "Shear",
+        "line1": "shear",
+        "line2": "e_shear",
+        "class": "effect",
+        "number": 98,
+        "path": "",
+        "symbol": "Sr"
+      },
+      {
+        "name": "Simulate Color Blind",
+        "line1": "simulate color blind",
+        "line2": "e_simulate_color_blind",
+        "class": "effect",
+        "number": 99,
+        "path": "e_shear",
+        "symbol": "Si"
+      },
+      {
+        "name": "Style Transfer",
+        "line1": "style transfer",
+        "line2": "e_style_transfer",
+        "class": "effect",
+        "number": 100,
+        "path": "e_style_transfer",
+        "symbol": "St"
+      },
+      {
+        "name": "Theme",
+        "line1": "theme",
+        "line2": "e_theme",
+        "class": "effect",
+        "number": 101,
+        "path": "e_theme",
+        "symbol": "Th"
+      },
+      {
+        "name": "Tint",
+        "line1": "tint",
+        "line2": "e_tint",
+        "class": "effect",
+        "number": 102,
+        "path": "e_tint",
+        "symbol": "Ti"
+      },
+      {
+        "name": "Transition",
+        "line1": "transition",
+        "line2": "e_transition",
+        "class": "effect",
+        "number": 103,
+        "path": "e_transition",
+        "symbol": "Tr"
+      },
+      {
+        "name": "Trim",
+        "line1": "trim",
+        "line2": "e_trim",
+        "class": "effect",
+        "number": 104,
+        "path": "e_trim",
+        "symbol": "Tm"
+      },
+      {
+        "name": "Unsharp Mask",
+        "line1": "unsharp mask",
+        "line2": "e_unsharp_mask",
+        "class": "effect",
+        "number": 105,
+        "path": "e_unsharp_mask",
+        "symbol": "Um"
+      },
+      
+      {
+        "name": "Vectorize",
+        "line1": "vectorize",
+        "line2": "e_vectorize",
+        "class": "effect",
+        "number": 106,
+        "path": "e_vectorize",
+        "symbol": "Ve"
+      },
+      {
+        "name": "Vibrance",
+        "line1": "vibrance",
+        "line2": "e_vibrance",
+        "class": "effect",
+        "number": 107,
+        "path": "e_vibrance",
+        "symbol": "Vi"
+      },
+      {
+        "name": "Viesus Correct",
+        "line1": "viesus correct",
+        "line2": "e_viesus_correct",
+        "class": "effect",
+        "number": 108,
+        "path": "e_viesus_correct",
+        "symbol": "Vt"
+      },
+      {
+        "name": "Vignette",
+        "line1": "vignette",
+        "line2": "e_vignette",
+        "class": "effect",
+        "number": 109,
+        "path": "e_vignette",
+        "symbol": "Vg"
+      },
+      {
+        "name": "Volume",
+        "line1": "volume",
+        "line2": "e_volume",
+        "class": "effect",
+        "number": 110,
+        "path": "e_volume",
+        "symbol": "Vo"
+      },
+      {
+        "name": "Blank",
+        "line1": "",
+        "line2": "",
+        "class": "Blank",
+        "number": 9001,
+        "path": "",
+        "symbol": ""
+      },
+      {
+        "name": "Aspect Ratio",
+        "line1": "aspect ratio",
+        "line2": "ar_",
+        "class": "resize",
+        "number": 111,
+        "path": "ar_aspect_ratio",
+        "symbol": "Ar"
+      },
+      {
+        "name": "Height",
+        "line1": "height",
+        "line2": "h_",
+        "class": "resize",
+        "number": 112,
+        "path": "h_height",
+        "symbol": "H"
+      },
+      {
+        "name": "Width",
+        "line1": "width",
+        "line2": "w_",
+        "class": "resize",
+        "number": 113,
+        "path": "w_width",
+        "symbol": "W"
+      },
+      {
+        "name": "Crop Fill",
+        "line1": "crop fill",
+        "line2": "c_fill",
+        "class": "resize",
+        "number": 114,
+        "path": "",
+        "symbol": "Fi"
+      },
+      {
+        "name": "Crop Fill Pad",
+        "line1": "crop fill pad",
+        "line2": "c_fill_pad",
+        "class": "resize",
+        "number": 115,
+        "path": "c_fill_pad",
+        "symbol": "Fd"
+      },
+      {
+        "name": "Crop Fit",
+        "line1": "crop fit",
+        "line2": "c_fit",
+        "class": "resize",
+        "number": 116,
+        "path": "c_fit",
+        "symbol": "Ft"
+      },
+      {
+        "name": "Imagga Crop",
+        "line1": "crop imagga",
+        "line2": "c_imagga_crop",
+        "class": "resize",
+        "number": 117,
+        "path": "c_imagga_crop",
+        "symbol": "Ic"
+      },
+      {
+        "name": "Imagga Scale",
+        "line1": "imagga scale",
+        "line2": "c_imagga_scale",
+        "class": "resize",
+        "number": 118,
+        "path": "c_imagga_scale",
+        "symbol": "Is"
+      },
+      {
+        "name": "Crop Limit Fill",
+        "line1": "crop limit fill",
+        "line2": "c_limit",
+        "class": "resize",
+        "number": 119,
+        "path": "c_lfill",
+        "symbol": "Lf"
+      },
+      {
+        "name": "Crop Limit",
+        "line1": "crop limit",
+        "line2": "c_limit",
+        "class": "resize",
+        "number": 120,
+        "path": "c_limit",
+        "symbol": "Li"
+      },
+      {
+        "name": "Crop Limit Pad ",
+        "line1": "limit pad",
+        "line2": "c_lpad",
+        "class": "resize",
+        "number": 121,
+        "path": "c_lpad",
+        "symbol": "Lp"
+      },
+      {
+        "name": "Crop Minimum Fit",
+        "line1": "crop minimum fit",
+        "line2": "c_mfit",
+        "class": "resize",
+        "number": 122,
+        "path": "c_mfit",
+        "symbol": "Mf"
+      },
+      {
+        "name": "Crop Minimum Pad",
+        "line1": "crop minimum pad",
+        "line2": "c_mpad",
+        "class": "resize",
+        "number": 123,
+        "path": "c_mpad",
+        "symbol": "Mp"
+      },
+      {
+        "name": "Crop Pad",
+        "line1": "pad",
+        "line2": "c_pad",
+        "class": "resize",
+        "number": 124,
+        "path": "c_pad",
+        "symbol": "Pa"
+      },
+      {
+        "name": "Crop Scale",
+        "line1": "crop scale",
+        "line2": "c_scale",
+        "class": "resize",
+        "number": 125,
+        "path": "c_scale",
+        "symbol": "Sc"
+      },
+      {
+        "name": "Crop Thumb",
+        "line1": "crop thumb",
+        "line2": "c_thumb",
+        "class": "resize",
+        "number": 126,
+        "path": "c_thumb",
+        "symbol": "Tb"
+      }
+      
+  ]
+}
